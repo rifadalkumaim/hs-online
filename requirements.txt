@@ -1,6 +1,7 @@
 fastapi
 uvicorn
-gunicorn
 pandas
 scikit-learn
 openpyxl
+jinja2
+python-multipart
